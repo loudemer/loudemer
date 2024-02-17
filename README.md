@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @loudemer
 - 👀 I’m interested in Home Assistant
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently programming Python and C++
 - 💞️ I’m looking to collaborate on domotic applications
 - 📫 How to reach me ...
 
